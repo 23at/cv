@@ -36,6 +36,11 @@ git, vscode, supabase
 - Collaborated on a CI/CD pipeline setup to automate testing and deployment using GitHub Actions.
 
   ```
+  python
+  @app.route("/health", methods=["GET"])
+  def health():
+    return {"status": "ok"}, 200
+
   ```
 
 ### Endless Runner 2-D Game
@@ -44,3 +49,6 @@ git, vscode, supabase
 - Researched game design principles and Unity game mechanics for a 2-D game.
 - Applied research to program character animation, player movement, and obstacle controls.
 - Profiled the game using Unity Profiler to identify performance bottlenecks and researched optimization techniques to improve game efficiency.
+
+##refrences
+> Available on request

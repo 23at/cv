@@ -23,9 +23,12 @@ Computer Science student with a minor in Applied Statistics and experience devel
 - Python
   - FastAPI
   - Flask
+
+```
 - Git
 - VS Code
 - Supabase
+```
 
 ## Projects
 

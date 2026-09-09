@@ -47,5 +47,5 @@ def health():
 - Applied research to program character animation, player movement, and obstacle controls.
 - Profiled the game using Unity Profiler to identify performance bottlenecks and researched optimization techniques to improve game efficiency.
 
-##refrences
+## refrences
 > Available on request
